@@ -1,6 +1,6 @@
 # Parking-System-Arduino
 
-The project was developed as a major assignment for the Microcontroller Systems course, demonstrating the practical application of microcontroller programming in real-world scenarios. This project demonstrates an Arduino-based access control system that utilizes RFID technology for secure authentication. The system is designed to grant or deny access based on the RFID card's unique identification (UID). When an authorized RFID card is scanned, the system triggers a servo motor to unlock the door and displays a welcome message on an LCD screen. Unauthorized cards are met with a denial message, and the door remains locked.
+The project was developed as a major assignment for the Microcontroller Systems course, demonstrating the practical application of microcontroller programming in real-world scenarios. This project is an Arduino-Based Parking Barrier System that utilizes RFID technology for secure authentication. The system is designed to grant or deny access based on the RFID card's unique identification (UID). When an authorized RFID card is scanned, the system triggers a servo motor to unlock the door and displays a welcome message on an LCD screen. Unauthorized cards are met with a denial message, and the door remains locked.
 
 ## Components:
 - Arduino Uno
