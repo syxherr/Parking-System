@@ -16,6 +16,7 @@ The project was developed as a major assignment for the Microcontroller Systems 
 - LiquidCrystal_I2C Library: Controls the I2C LCD display, allowing for efficient message display with minimal wiring.
 
 ## How It Works:
+![demo](https://github.com/user-attachments/assets/13be026e-31dd-4600-9565-ff6d6a030ceb)
 1. Initialization:
 - The RFID module is initialized and prepared to scan for cards.
 - The LCD screen displays the message "Please Scan Your Card!".
